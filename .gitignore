@@ -31,3 +31,4 @@ Servers*
 .settings
 target
 **/log4j.xml
+.tern-project
