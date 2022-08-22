@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="AddMember">
+	<form action="addMember">
 		* 아이디: <input type="text" name="userid" id="userid"><br>
 		* 비밀번호: <input type="password" name="passwd" id="passwd"><br>
 		비빌번호 확인: <input type="password" name="passwd2" id="passwd2"> <span id="checkpw"></span><br> 
