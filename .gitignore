@@ -32,3 +32,4 @@ Servers*
 target
 **/log4j.xml
 .tern-project
+*pom.xml
